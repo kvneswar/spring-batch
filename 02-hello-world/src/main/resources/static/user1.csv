@@ -1,0 +1,3 @@
+User(id=1, name=Peter, dept=Technology, salary=12000)
+User(id=2, name=Sam, dept=Operations, salary=13000)
+User(id=3, name=Ryan, dept=Accounts, salary=10000)
